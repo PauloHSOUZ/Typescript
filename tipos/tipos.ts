@@ -17,6 +17,7 @@ let nomeE: string = 'Paulo app'
 console.log(nomeE);
 
 // numbers
+
 let idadeE: number = 23
 console.log(idadeE);
 
