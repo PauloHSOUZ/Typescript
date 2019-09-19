@@ -41,4 +41,3 @@
 // }
 // const { nome: n, preco } = item;
 // // generators, simbolos, interators
-//# sourceMappingURL=ecmascript.js.map

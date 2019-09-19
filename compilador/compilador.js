@@ -19,4 +19,3 @@ function saudar(isManha) {
         saudacao = 'Boa noite!';
     return saudacao;
 }
-//# sourceMappingURL=compilador.js.map
