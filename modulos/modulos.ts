@@ -1,4 +1,4 @@
-import { areaRetangulo } from './retangulo';
-import { areaCircunferencia } from './circunferencia'; 
+// import { areaRetangulo } from './retangulo';
+// import { areaCircunferencia } from './circunferencia'; 
 
 

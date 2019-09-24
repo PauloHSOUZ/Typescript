@@ -3,7 +3,7 @@ var Geometria;
 (function (Geometria) {
     let Area;
     (function (Area) {
-        const PI = 3.24;
+        // const PI = 3.24;
         function retangulo(base, altura) {
             return base * altura;
         }
